@@ -106,36 +106,6 @@ After completing this research, I gained practical knowledge of:
 
 ---
 
-# 📈 Future Work
-
-- GraphRAG
-- LangChain Integration
-- Neo4j Vector Index
-- LLM + Knowledge Graph
-- Knowledge Graph Embeddings
-- Production-scale Graph Applications
-
----
-
-# 🤝 Contributing
-
-This repository is currently maintained by the author.
-External contributions are not accepted at this time.
-
----
-
-# 🔒 Security
-
-Please refer to the **SECURITY.md** file for reporting security issues.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 # 👨‍💻 Author
 
 **K Vinit Karmkar**
