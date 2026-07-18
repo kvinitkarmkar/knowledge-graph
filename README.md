@@ -106,13 +106,4 @@ After completing this research, I gained practical knowledge of:
 
 ---
 
-# 👨‍💻 Author
-
-**K Vinit Karmkar**
-
-GitHub:
-https://github.com/kvinitkarmkar
-
----
-
 ⭐ If you found this repository useful, consider giving it a Star.
